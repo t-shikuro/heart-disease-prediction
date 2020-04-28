@@ -2,9 +2,9 @@
 
 For entire analysis and code see [Jupyter Notebook](https://t-shikuro.github.io/heart-disease-prediction/)
 
+![](images/heart.gif)
 
-
-### Predicting heart disease 🚜 
+### Predicting heart disease 🚜
 
 This notebook will introduce some foundation machine learning and data science concepts by exploring the problem of heart disease classification.
 
