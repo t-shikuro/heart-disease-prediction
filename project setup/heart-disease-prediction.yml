@@ -1,0 +1,4 @@
+name: heart-disease-prediction
+channels:
+  - defaults
+prefix: C:\Users\Theo\miniconda3\envs\heart-disease-prediction
